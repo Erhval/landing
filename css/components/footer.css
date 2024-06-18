@@ -1,0 +1,16 @@
+.footer{
+  background-color: #2C2B2B;
+  text-align: center;
+  justify-content: space-around;
+  padding-bottom: 2em;
+}
+.footer a{
+  font-size: 2em;
+  color: burlywood;
+}
+.footer p{
+  color: gray;
+}
+.fa-heart{
+  color: red;
+}
